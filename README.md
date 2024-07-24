@@ -2,7 +2,8 @@
 Here's a detailed breakdown of the SuperStore Sales Dashboard :                                                                                            
 This dashboard provides a comprehensive overview of SuperStore's sales performance, utilizing various charts and visualizations to present key metrics and trends.
 
-Technologies Used :                                                                                                                                                                                       
+Technologies Used :                                                                                                                                                                                        
+• Power BI                                                                                                                                                                                                  
 • Excel                                                                                                                                                     
 • Power Query                                                                                                                                               
 • Functions                                                                                                                                                 
