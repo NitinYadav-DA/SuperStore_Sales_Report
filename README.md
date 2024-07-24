@@ -5,9 +5,8 @@ This dashboard provides a comprehensive overview of SuperStore's sales performan
 Technologies Used :                                                                                                                                                                                        
 • Power BI                                                                                                                                                                                                  
 • Excel                                                                                                                                                     
-• Power Query                                                                                                                                               
-• Functions                                                                                                                                                 
-• DAX
+• Power Query                                                                                                                                                                                          
+• DAX                                                                                                                                                                                                   
 
 Steps Overview :                                                                                                                                            
 
